@@ -1,2 +1,2 @@
 # image-lazy-load-element
-Angular Elements (Web Component) Image Lazy Load
+Image Lazy Load Angular Elements (Web Component)
