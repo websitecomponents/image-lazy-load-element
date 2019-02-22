@@ -59,7 +59,7 @@ export class ImageLazyLoadComponent implements OnInit {
   public log = () => {
     const state = this.status;
     console.log(state);
-  };
+  }
   private customEmit(val) {
     this.isVisible.emit(val);
     const domEvent = new CustomEvent('is-visible');
